@@ -6,3 +6,4 @@ Hi, my name is **Doug**. After a solid 24-year career in both the U.S. Navy and 
 
 - Sharing all updates on [LinkedIn](https://www.linkedin.com/in/dougpfeffer/)
 - Tinkering with Interactions on [Codepen](https://codepen.io/dougpfeffer-alt)
+- Available as a Mentor for Veterans at [Veterati](https://lnkd.in/gfrYNW6)
