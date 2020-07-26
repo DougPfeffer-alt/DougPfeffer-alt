@@ -7,5 +7,5 @@ Hi, my name is **Doug**. After a solid 24-year career in both the U.S. Navy and 
 ## Find me around the web 🌎: 
 - Sharing all updates on [LinkedIn](https://www.linkedin.com/in/dougpfeffer/)
 - Tinkering with Interactions on [Codepen](https://codepen.io/dougpfeffer-alt)
+- Available for collaboration on [DEV](https://dev.to/dougpfefferalt)
 - Available as a Mentor for Veterans at [Veterati](https://lnkd.in/gfrYNW6)
-- [![Doug Pfeffer's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/dougpfefferalt)
