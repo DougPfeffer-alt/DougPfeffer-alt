@@ -1,4 +1,4 @@
-# H1, 1'M D0UG
+# HI, I'M D0UG
 
 <img src="https://i.imgur.com/tEtfWZQ.jpg" alt="SEATTLE" style="width:400px;"/>
 
