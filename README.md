@@ -11,10 +11,10 @@ Now I'm pivoting my career from the Nonprofit sector to Tech. I'm very intereste
 ## Find me around the web 🌎 
 
 <a href ="https://twitter.com/Doug_Pfeffer"><img src="https://i.imgur.com/r8Pic5N.jpg" alt="Twitter" style="width:50px;"/></a>
- <a href ="https://www.linkedin.com/in/dougpfeffer/"><img src="https://i.imgur.com/G8WqJel.jpg" alt="LinkedIn" style="width:50px;"/></a>
- <a href ="https://stackoverflow.com/users/13715241/doug-pfeffer?tab=profile"><img src="https://i.imgur.com/j0rIJVc.jpg" alt="Stackoverflow" style="width:50px;"/></a>
- <a href ="https://codepen.io/dougpfeffer-alt"><img src="https://i.imgur.com/DRbSZn0.png" alt="Codepen" style="width:50px;"/></a>
- <a href ="https://dev.to/dougpfefferalt"><img src="https://i.imgur.com/0CUUNAL.jpg" alt="DEV" style="width:50px;"/></a>
- <a href ="https://enter.veterati.com/mentor/public_profile?mid=MR.6dba9d169f47b553e24a60e34a46572e"><img src="https://i.imgur.com/2QlsnAB.png" alt="Veterati" style="width:50px;"/></a>
+<a href ="https://www.linkedin.com/in/dougpfeffer/"><img src="https://i.imgur.com/G8WqJel.jpg" alt="LinkedIn" style="width:50px;"/></a>
+<a href ="https://stackoverflow.com/users/13715241/doug-pfeffer?tab=profile"><img src="https://i.imgur.com/j0rIJVc.jpg" alt="Stackoverflow" style="width:50px;"/></a>
+<a href ="https://codepen.io/dougpfeffer-alt"><img src="https://i.imgur.com/DRbSZn0.png" alt="Codepen" style="width:50px;"/></a>
+<a href ="https://dev.to/dougpfefferalt"><img src="https://i.imgur.com/0CUUNAL.jpg" alt="DEV" style="width:50px;"/></a>
+<a href ="https://enter.veterati.com/mentor/public_profile?mid=MR.6dba9d169f47b553e24a60e34a46572e"><img src="https://i.imgur.com/2QlsnAB.png" alt="Veterati" style="width:50px;"/></a>
 
 
