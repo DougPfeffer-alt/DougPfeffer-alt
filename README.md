@@ -9,11 +9,6 @@ And I'm a pretty serious :biking_man:
 Now I'm pivoting my career from the Nonprofit sector to Tech. I'm very interested in Product Management roles, as well as DEV roles that fit my experience.
 
 ## Find me around the web 🌎 
-- Sharing all updates on [LinkedIn](https://www.linkedin.com/in/dougpfeffer/)<img src="https://i.imgur.com/wjDIXh8.jpg" alt="LinkedIn" style="width:25px;"/>
-- Asking & Answering on [Stack Overflow](https://stackoverflow.com/users/13715241/doug-pfeffer?tab=profile)
-- Tinkering with Interactions on [Codepen](https://codepen.io/dougpfeffer-alt)
-- Available for collaboration at [DEV](https://dev.to/dougpfefferalt)
-- Available as a Mentor for Veterans at [Veterati](https://lnkd.in/gfrYNW6)
 
 <a href ="https://twitter.com/Doug_Pfeffer"><img src="https://i.imgur.com/GB1cVCY.jpg" alt="Twitter" style="width:50px;"/></a>
 <a href ="https://www.linkedin.com/in/dougpfeffer/"><img src="https://i.imgur.com/G8WqJel.jpg" alt="LinkedIn" style="width:50px;"/></a>
