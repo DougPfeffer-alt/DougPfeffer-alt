@@ -4,9 +4,7 @@
 
 Hi, my name is **Doug**. After a solid 24-year career in both the U.S. Navy and the U.S. Army, I decided to turn my attention to my Community. With a strong Project, Product and Program Management background, my efforts were focused on the development of Community-Based Programs, supporting those programs, and helping organizations reach their goals. Since 2013, I've been involved in nonprofit management at multiple levels through the application of data to tell a story, strategic planning, and partnership development. 
 
-And I'm a pretty serious :biking_man:
-
-Now I'm pivoting my career from the Nonprofit sector to Tech. I'm very interested in Product Management roles, as well as DEV roles that fit my experience.
+My goal has always been to be a true "Value Add" to the company that I work for, focusing more on the "TEAM", and less on the "I". Now I'm pivoting my career from the Nonprofit sector to Tech, where I'm very interested in Product Management roles, as well as DEV roles that fit my experience.
 
 ## Find me around the web 🌎 
 
