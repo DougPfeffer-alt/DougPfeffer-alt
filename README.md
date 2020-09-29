@@ -15,6 +15,7 @@ Now I'm pivoting my career from the Nonprofit sector to Tech. I'm very intereste
 - Available for collaboration at [DEV](https://dev.to/dougpfefferalt)
 - Available as a Mentor for Veterans at [Veterati](https://lnkd.in/gfrYNW6)
 
+<a href ="https://twitter.com/Doug_Pfeffer"><img src="https://i.imgur.com/GB1cVCY.jpg" alt="Twitter" style="width:50px;"/></a>
 <a href ="https://www.linkedin.com/in/dougpfeffer/"><img src="https://i.imgur.com/G8WqJel.jpg" alt="LinkedIn" style="width:50px;"/></a>
 <a href ="https://stackoverflow.com/users/13715241/doug-pfeffer?tab=profile"><img src="https://i.imgur.com/j0rIJVc.jpg" alt="Stackoverflow" style="width:50px;"/></a>
 <a href ="https://codepen.io/dougpfeffer-alt"><img src="https://i.imgur.com/DRbSZn0.png" alt="Codepen" style="width:50px;"/></a>
